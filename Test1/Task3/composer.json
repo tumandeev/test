@@ -1,0 +1,13 @@
+{
+    "name": "tumandeev/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        },
+        "files": [
+            "helper.php"
+        ]
+    },
+    "require": {}
+}
